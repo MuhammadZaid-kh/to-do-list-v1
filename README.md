@@ -17,3 +17,7 @@ made by html , css and javascript languages
 
 ## owner
 muhammad zaid
+
+
+### live open
+https://muhammadzaid-kh.github.io/to-do-list-v1/
